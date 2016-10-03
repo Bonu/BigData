@@ -9,6 +9,12 @@ hadoop jar target/invertedIndex.jar /Users/jbonu/data/sandbox/hadoop/hadoopcookb
 
 
 
+TODO:
+-----
+1. Convert it to latest version of hadoop
+2. Enhance Inverted index to return count instead of text file name
+3. Find how to use compression
+
 
 
 
